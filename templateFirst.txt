@@ -1,0 +1,6 @@
+// Hello. This is the first line of a scenario SET
+{varA} Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+{varB} In non turpis placerat, pretium enim vitae, pretium ante.
+{varC} Sed vestibulum tortor ac egestas laoreet.
+{varD} Cras vitae nibh pretium, feugiat elit a, congue turpis.
+{varE} Cras finibus turpis in vulputate convallis.

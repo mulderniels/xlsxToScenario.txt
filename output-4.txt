@@ -1,0 +1,12 @@
+// Hello. This is the first line of a scenario SET
+test Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+test In non turpis placerat, pretium enim vitae, pretium ante.
+test Sed vestibulum tortor ac egestas laoreet.
+test Cras vitae nibh pretium, feugiat elit a, congue turpis.
+test Cras finibus turpis in vulputate convallis.
+// Hello. This is the first line of a scenario
+test Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+test In non turpis placerat, pretium enim vitae, pretium ante.
+test Sed vestibulum tortor ac egestas laoreet.
+test Cras vitae nibh pretium, feugiat elit a, congue turpis.
+test Cras finibus turpis in vulputate convallis.
